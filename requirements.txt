@@ -1,0 +1,10 @@
+Flask
+pyserial
+numpy
+Pillow
+groq
+ultralytics
+opencv-python
+pyopenssl
+cryptography
+zeroconf
