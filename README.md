@@ -77,7 +77,7 @@ Tomato-Doctor/
 
 
 ## 📂 Screenshots
-(1.png)
+![Patient Dashboard](2.png)
 (2.png)
 (3.png)
 
