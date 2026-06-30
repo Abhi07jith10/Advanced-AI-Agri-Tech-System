@@ -54,8 +54,9 @@ A smart agriculture system that combines Artificial Intelligence (AI), Machine L
 - Power Supply / Battery
 
 ## 📂 Screenshots
-![Patient Dashboard](2.png)
-
+![Main page](1.png)
+![Results](2.png)
+![Results](3.png)
 ## 📂 Project Structure
 
 ```text
