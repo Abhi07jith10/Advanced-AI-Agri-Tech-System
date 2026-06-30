@@ -53,6 +53,11 @@ A smart agriculture system that combines Artificial Intelligence (AI), Machine L
 - Mini Water Pump
 - Power Supply / Battery
 
+## 📂 Screenshots
+![Patient Dashboard(2.png)
+(2.png)
+(3.png)
+
 ## 📂 Project Structure
 
 ```text
@@ -76,9 +81,5 @@ Tomato-Doctor/
 └── uploads/               # Uploaded leaf images
 
 
-## 📂 Screenshots
-![Patient Dashboard](2.png)
-(2.png)
-(3.png)
 
 
